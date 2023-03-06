@@ -1,1 +1,1 @@
-# bankomat
+ATM
